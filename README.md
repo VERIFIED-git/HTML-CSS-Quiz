@@ -3,7 +3,6 @@
 This project consists of a quiz webpage that tests your knowledge of HTML and CSS. The quiz is designed with accessibility in mind, incorporating various tools and best practices to ensure best user experience. Accessibility aims to make webpages easy for all people to use, including those with disabilities.
 
 ![image](https://github.com/VERIFIED-git/HTML-CSS-Quiz/assets/123449884/a0901e4a-4fa4-4670-89c2-98492dd07ad2)
-![image](https://github.com/VERIFIED-git/HTML-CSS-Quiz/assets/123449884/ceab6102-f98c-45fd-b93a-9d57de5ed5c9)
 
 ## Features
 
@@ -13,8 +12,7 @@ This project consists of a quiz webpage that tests your knowledge of HTML and CS
 
 - **Design Best Practices**: The design of the quiz webpage follows best practices for accessibility. This includes using appropriate color contrast ratios, ensuring clear and readable text, and providing sufficient visual cues to guide users through the quiz.
 
-![image](https://github.com/VERIFIED-git/HTML-CSS-Quiz/assets/123449884/31bad85e-b6d0-4e00-ae31-a22167c87d6f)
-
+![image](https://github.com/VERIFIED-git/HTML-CSS-Quiz/assets/123449884/ceab6102-f98c-45fd-b93a-9d57de5ed5c9)
 
 ## How to Use
 
@@ -40,6 +38,7 @@ cd html-css-quiz
 
 Contributions to this project are welcome! If you have any suggestions, bug fixes, or additional features you would like to add, please submit a pull request. Ensure that your changes maintain the project's focus on accessibility and adhere to coding best practices.
 
+![image](https://github.com/VERIFIED-git/HTML-CSS-Quiz/assets/123449884/31bad85e-b6d0-4e00-ae31-a22167c87d6f)
 
 ## Acknowledgements
 
